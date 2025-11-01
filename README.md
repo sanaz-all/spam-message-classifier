@@ -34,4 +34,4 @@ This project is an SMS Spam Detection System built using a custom neural network
 
 ### 🤝 Contributors
 - [SanazAllahyari](https://github.com/Sanaz-all)
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
